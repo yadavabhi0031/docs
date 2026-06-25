@@ -1,0 +1,94 @@
+{
+  "phase": "Phase 1 \u2014 projected quarterfinalists",
+  "surface": "Grass",
+  "method": "Pre-draw projection from current grass-court form \u2014 no rankings in the source data, so playstyle is rewarded and fitness isn't visible. Pass the official entry list (--field) to sharpen, or simulate the real bracket once the draw is out.",
+  "generated": "2026-06-25",
+  "atp": {
+    "quarterfinalists": [
+      {
+        "rank": 1,
+        "player": "Novak Djokovic",
+        "field_win_rate": 0.704
+      },
+      {
+        "rank": 2,
+        "player": "Jannik Sinner",
+        "field_win_rate": 0.6998
+      },
+      {
+        "rank": 3,
+        "player": "Carlos Alcaraz",
+        "field_win_rate": 0.6212
+      },
+      {
+        "rank": 4,
+        "player": "Daniil Medvedev",
+        "field_win_rate": 0.6001
+      },
+      {
+        "rank": 5,
+        "player": "Casper Ruud",
+        "field_win_rate": 0.597
+      },
+      {
+        "rank": 6,
+        "player": "Grigor Dimitrov",
+        "field_win_rate": 0.5863
+      },
+      {
+        "rank": 7,
+        "player": "Nick Kyrgios",
+        "field_win_rate": 0.5775
+      },
+      {
+        "rank": 8,
+        "player": "Alex De Minaur",
+        "field_win_rate": 0.5693
+      }
+    ]
+  },
+  "wta": {
+    "quarterfinalists": [
+      {
+        "rank": 1,
+        "player": "Elena Rybakina",
+        "field_win_rate": 0.7891
+      },
+      {
+        "rank": 2,
+        "player": "Iga Swiatek",
+        "field_win_rate": 0.7674
+      },
+      {
+        "rank": 3,
+        "player": "Mirra Andreeva",
+        "field_win_rate": 0.6689
+      },
+      {
+        "rank": 4,
+        "player": "Aryna Sabalenka",
+        "field_win_rate": 0.6643
+      },
+      {
+        "rank": 5,
+        "player": "Naomi Osaka",
+        "field_win_rate": 0.6476
+      },
+      {
+        "rank": 6,
+        "player": "Coco Gauff",
+        "field_win_rate": 0.6467
+      },
+      {
+        "rank": 7,
+        "player": "Karolina Muchova",
+        "field_win_rate": 0.643
+      },
+      {
+        "rank": 8,
+        "player": "Elina Svitolina",
+        "field_win_rate": 0.6272
+      }
+    ]
+  }
+}
